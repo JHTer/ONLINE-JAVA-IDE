@@ -1,0 +1,7 @@
+executor:
+  core-pool: 5
+  max-pool: 5
+  queue-capacity: 5
+spring:
+  freemarker:
+    suffix: .html 
