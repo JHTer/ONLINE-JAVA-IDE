@@ -1,6 +1,6 @@
 # Online Executor
 
-Run Java code (and other languages in the future) straight from your browser.
+Run Java code straight from your browser.
 
 > **A lightweight online IDE that lets you write and run Java code directly.**
 
