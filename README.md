@@ -2,6 +2,10 @@
 
 Run Java code (and other languages in the future) straight from your browser.
 
+> **A lightweight online IDE that lets you write and run Java code directly.**
+
+![UI Screenshot](doc/image.png)
+
 This monorepo contains:
 
 | Layer      | Path                     | Tech                            |
